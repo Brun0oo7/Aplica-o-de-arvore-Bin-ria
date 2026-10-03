@@ -1,5 +1,7 @@
 # Aplica-o-de-arvore-Bin-ria
 
+Aluno: Bruno da Costa Mattos Bonacordi
+
 Programa em Java que monta uma arvore binaria com as letras de A a Z e os numeros de 0 a 9 do codigo Morse.
 
 Ponto (.) vai para o filho esquerdo e traço (-) vai para o filho direito. O caminho da raiz ate um no e o codigo Morse do caractere que esta nele.
