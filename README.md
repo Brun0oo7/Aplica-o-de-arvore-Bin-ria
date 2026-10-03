@@ -24,9 +24,9 @@ java Main
 
 ## Menu
 
-1 - Exibir arvore
-2 - Buscar letra/numero (retorna o codigo Morse)
-3 - Digitar mensagem em morse (retorna o texto)
+1 - Exibir arvore\
+2 - Buscar letra/numero (retorna o codigo Morse)\
+3 - Digitar mensagem em morse (retorna o texto)\
 0 - Sair
 
 Na opcao 3, separe as letras com espaco. Exemplo: ... --- ... vira SOS.
